@@ -1,3 +1,5 @@
+set -e
+
 # create Workspace in Home dir
 if ! [ -d "~/f1tenth_ws/src" ]; then
   cd ~
