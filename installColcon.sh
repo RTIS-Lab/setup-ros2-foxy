@@ -1,3 +1,4 @@
+set -e
 # install colcon
 sudo apt install python3-colcon-common-extensions -y
 
