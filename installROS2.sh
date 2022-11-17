@@ -1,3 +1,5 @@
+set -e
+
 # Set locale
 
 locale  # check for UTF-8
